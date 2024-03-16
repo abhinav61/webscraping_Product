@@ -1,3 +1,5 @@
+# This is the web scrapping project. It performs the web scrapping of ecommerce website. I have fetched the product Name and price of the product. I have used BeautifulSoup and pandas to perform the web scrapping. Further to this, the data is written into excel sheet. 
+
 # webscraping_Product
 1. Install requests, BeautifulSoup, pandas and Openxl
 
